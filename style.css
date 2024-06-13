@@ -1,0 +1,13 @@
+.navbar-brand{
+    
+        font-size: 30px;
+        background: -webkit-linear-gradient(#e57070, #e8dcdc);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    
+}
+
+.row{
+    display: flex;
+    gap: 20px;
+}
